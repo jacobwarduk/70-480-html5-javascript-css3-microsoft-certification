@@ -8,7 +8,7 @@ Official Training Guide Progress
 --------------------------------
 ---
 
-**Chapter 2**
+**Chapter 2 - Getting Started With HTML5**
 
 *Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-1.txt)
 
@@ -20,4 +20,8 @@ Official Training Guide Progress
 
 ---
 
-**Chapter 3**
+**Chapter 3 - Getting Started With JavaScript**
+
+
+
+---
