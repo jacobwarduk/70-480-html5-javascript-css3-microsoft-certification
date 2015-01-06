@@ -6,6 +6,7 @@ My work towards gaining the Programming in HTML5 with JavaScript and CSS3 (70-48
 
 Official Training Guide Progress
 --------------------------------
+---
 
 **Chapter 2**
 
