@@ -1,4 +1,4 @@
-70-480-html5-javascript-css3-microsoft-certification
+70-480 Programming in HTML5 with JavaScript and CSS3
 ====================================================
 
-Work towards gaining the 70-480 Programming in HTML5 with JavaScript and CSS3 Microsoft certification.
+My work towards gaining the 70-480 Programming in HTML5 with JavaScript and CSS3 Microsoft certification.
