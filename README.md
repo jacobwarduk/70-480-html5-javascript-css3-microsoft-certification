@@ -14,9 +14,8 @@ Official Training Guide Progress
 
 *Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-2.txt)
 
-*Practice Exercise 1:* [Completed]()
+*Practice Exercises:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/tree/master/Chapter%202/ContosoWebSite)
 
-*Practice Exercise 2:* [Completed]()
 
 ---
 
