@@ -12,11 +12,11 @@ Official Training Guide Progress
 
 *Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-1.txt)
 
-*Lesson 2* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-1.txt)
+*Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-2.txt)
 
-*Practice Exercise 1* [Completed]()
+*Practice Exercise 1:* [Completed]()
 
-*Practice Exercise 2* [Completed]()
+*Practice Exercise 2:* [Completed]()
 
 ---
 
