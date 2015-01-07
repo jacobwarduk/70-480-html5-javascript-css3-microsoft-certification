@@ -10,9 +10,9 @@ Official Training Guide Progress
 
 **Chapter 2 - Getting Started With HTML5**
 
-*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-1.txt)
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-1.html)
 
-*Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-2.txt)
+*Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-2.html)
 
 *Practice Exercises:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/tree/master/Chapter%202/ContosoWebSite)
 
