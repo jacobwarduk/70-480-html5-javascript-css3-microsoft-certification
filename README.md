@@ -6,6 +6,9 @@ My work towards gaining the Programming in HTML5 with JavaScript and CSS3 (70-48
 
 Official Training Guide Progress
 --------------------------------
+
+**Official Training Guide: [Amazon](http://www.amazon.com/gp/product/0735674388/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0735674388&linkCode=as2&tag=jacwar-20&linkId=X72WD74XZWWVTHZY)**
+
 ---
 
 **Chapter 2 - Getting Started With HTML5**
