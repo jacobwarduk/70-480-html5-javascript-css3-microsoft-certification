@@ -34,7 +34,11 @@ I don't currently have a Windows box so this will have to wait.
 [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%203/lesson-1.html)
 
 
+---
 
+**Chapter 4 - Getting Started With CSS3**
+
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%204/lesson-1.html)
 
 
 ---
