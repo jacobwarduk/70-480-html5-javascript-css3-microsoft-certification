@@ -13,7 +13,7 @@ Official Training Guide Progress
 
 **Chapter 1 - Getting Started With Visual Studio And Blend**
 
-I don't currently have a Windows box so this will have to wait.
+Just installed Windows 8 and Visual Studio so I can get on with this chapter soon!
 
 ---
 
