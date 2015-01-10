@@ -1,0 +1,35 @@
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\HelloVisualStudioForWeb.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\HelloVisualStudioForWeb.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\HelloVisualStudioForWeb.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Antlr3.Runtime.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.jQuery.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\System.Web.Optimization.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\System.Web.Providers.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\WebGrease.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\HelloVisualStudioForWeb.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\HelloVisualStudioForWeb.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\HelloVisualStudioForWeb.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Antlr3.Runtime.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.jQuery.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\System.Web.Optimization.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\System.Web.Providers.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\bin\WebGrease.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.vbprojResolveAssemblyReference.cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWebSolution\HelloVisualStudioForWeb\obj\Debug\HelloVisualStudioForWeb.pdb

@@ -1,0 +1,16 @@
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\bin\ContosoWebSite.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\bin\ContosoWebSite.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\bin\ContosoWebSite.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise1LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\bin\ContosoWebSite.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\bin\ContosoWebSite.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\bin\ContosoWebSite.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter02\Lesson1Exercise2LabCompleted\ContosoWebSiteSolution\ContosoWebSite\obj\Debug\ContosoWebSite.pdb

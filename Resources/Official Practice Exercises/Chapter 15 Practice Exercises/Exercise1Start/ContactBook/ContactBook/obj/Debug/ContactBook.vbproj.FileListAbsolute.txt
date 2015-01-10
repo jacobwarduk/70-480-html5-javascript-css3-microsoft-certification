@@ -1,0 +1,8 @@
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\bin\ContactBook.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\bin\ContactBook.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\bin\ContactBook.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\obj\Debug\ContactBook.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\obj\Debug\ContactBook.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\obj\Debug\ContactBook.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\obj\Debug\ContactBook.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\chapter15\Lab\Exercise1Start\ContactBook\ContactBook\obj\Debug\ContactBook.pdb

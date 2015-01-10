@@ -1,0 +1,16 @@
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\bin\NumberScramble.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\bin\NumberScramble.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\bin\NumberScramble.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise1Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\bin\NumberScramble.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\bin\NumberScramble.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\bin\NumberScramble.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter13\Lab\Exercise2Completed\NumberScramble\NumberScramble\obj\Debug\NumberScramble.pdb

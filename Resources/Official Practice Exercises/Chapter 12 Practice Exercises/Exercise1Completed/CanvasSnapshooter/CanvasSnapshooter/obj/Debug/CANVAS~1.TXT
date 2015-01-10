@@ -1,0 +1,8 @@
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\bin\CanvasSnapshooter.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\bin\CanvasSnapshooter.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\bin\CanvasSnapshooter.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\obj\Debug\CanvasSnapshooter.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\obj\Debug\CanvasSnapshooter.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\obj\Debug\CanvasSnapshooter.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\obj\Debug\CanvasSnapshooter.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter12\Lab\Exercise1Completed\CanvasSnapshooter\CanvasSnapshooter\obj\Debug\CanvasSnapshooter.pdb

@@ -1,0 +1,41 @@
+﻿body {
+    background-color: hsl(255,100%,50%);
+}
+
+input {
+    width: 446px;
+    height: 35px;
+    text-align: right;
+    padding: 10px;
+    border: inset;
+}
+
+button {
+    background-color: hsl(255, 50%, 80%);
+    width: 150px;
+    height: 50px;
+    border: outset;
+}
+
+    button:hover {
+        background-color: hsl(255, 50%, 90%);
+    }
+
+    button:active {
+        border: inset;
+        border-width: thick;
+        border-color: hsl(255, 100%, 100%);
+        background-color: hsl(255, 50%, 50%);
+    }
+
+input, button {
+    font-family: Arial;
+    font-size: 24pt;
+    border-width: thick;
+    border-color: hsl(255, 100%, 100%);
+    margin: 5px;
+}
+
+#txtResult {
+    background-color: hsl(255, 50%, 80%);
+}

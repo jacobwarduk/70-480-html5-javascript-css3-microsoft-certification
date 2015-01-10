@@ -1,0 +1,42 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#gameBoard {
+    width: 345px;
+    height: 345px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#message {
+    background-color: black;
+    font-size: 36px;
+    color: lime;
+    text-align: center;
+    width: 345px;
+    height: 80px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tile {
+    font-size: 64px;
+    width: 80px;
+    height: 80px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.square {
+    background-color: black;
+    border: solid;
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+.dragged {
+    background-color: red;
+}

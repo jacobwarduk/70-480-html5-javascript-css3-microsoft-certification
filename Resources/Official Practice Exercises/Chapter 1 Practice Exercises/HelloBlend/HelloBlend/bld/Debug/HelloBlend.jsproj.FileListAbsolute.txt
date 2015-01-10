@@ -1,0 +1,13 @@
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bin\Debug\resources.pri
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bin\Debug\AppxManifest.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bin\Debug\HelloBlend.build.appxrecipe
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\priconfig.xml.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\layout.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\resources.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\pri.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\priconfig.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\layout.resfiles
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\resources.resfiles
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\pri.resfiles
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\LanguageQualifiers.txt
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloBlend\HelloBlend\bld\Debug\ProjectArchitectures.txt

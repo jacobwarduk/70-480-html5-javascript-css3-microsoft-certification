@@ -1,0 +1,20 @@
+{
+  "name": "ContosoWeb",
+  "version": "0.0.0",
+  "description": "Contoso Web Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "Contoso",
+    "WebCalculator"
+  ],
+  "author": "Glenn Johnson",
+  "license": "BSD",
+  "dependencies": {
+	"formidable": "1.x",
+    "express": "3.0.0"
+  } 
+}

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GLENNXPS12</Machine>
+    <WindowsUser>Glenn</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Calculator</title>
+    <link href="Content/default.css" rel="stylesheet" />
+    <script type="text/javascript" src="Scripts/CalculatorLibrary.js"></script>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <hgroup id="headerText">
+                <h1>Contoso Ltd.</h1>
+                <h2>Your success equals our success</h2>
+            </hgroup>
+        </header>
+        <nav>
+            <a href="default.html">Home</a>
+        </nav>
+        <div role="main">
+            <div id="calculator">
+                <table>
+                    <tr>
+                        <td colspan="4">
+                            <input id="txtResult" type="text" readonly="readonly" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <input id="txtInput" type="text" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <button id="btnClearEntry">CE</button>
+                        </td>
+                        <td>
+                            <button id="btnClear">C</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button id="btn7">7</button></td>
+                        <td>
+                            <button id="btn8">8</button></td>
+                        <td>
+                            <button id="btn9">9</button></td>
+                        <td>
+                            <button id="btnPlus">+</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button id="btn4">4</button>
+                        </td>
+                        <td>
+                            <button id="btn5">5</button>
+                        </td>
+                        <td>
+                            <button id="btn6">6</button>
+                        </td>
+                        <td>
+                            <button id="btnMinus">-</button>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <button id="btn1">1</button>
+                        </td>
+                        <td>
+                            <button id="btn2">2</button>
+                        </td>
+                        <td>
+                            <button id="btn3">3</button>
+                        </td>
+                        <td></td>
+                    </tr>
+
+                    <tr>
+                        <td></td>
+                        <td>
+                            <button id="btn0">0</button>
+                        </td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <aside>
+            <p>Advertisements</p>
+        </aside>
+        <footer>
+            <p>
+                Copyright &copy; 2012, Contoso Ltd., All rights reserved
+            </p>
+        </footer>
+    </div>
+    <script type="text/javascript">
+        window.addEventListener('load', initialize, false);
+    </script>
+</body>
+</html>

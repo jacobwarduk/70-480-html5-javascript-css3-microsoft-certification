@@ -1,0 +1,18 @@
+{
+  "name": "MathService",
+  "version": "0.0.0",
+  "description": "A simple Web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Glenn Johnson",
+  "license": "BSD",
+  "private": true,
+  "dependencies": {
+	"formidable": "1.x",
+    "express": "3.0.0",
+	"math_example": "x" 
+  } 
+}

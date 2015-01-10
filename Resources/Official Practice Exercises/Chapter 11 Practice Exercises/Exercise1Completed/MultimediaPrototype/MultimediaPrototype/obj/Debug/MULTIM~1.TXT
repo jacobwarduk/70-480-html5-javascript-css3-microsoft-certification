@@ -1,0 +1,8 @@
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\bin\MultimediaPrototype.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\bin\MultimediaPrototype.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\bin\MultimediaPrototype.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter11\Lab\Exercise1Completed\MultimediaPrototype\MultimediaPrototype\obj\Debug\MultimediaPrototype.pdb

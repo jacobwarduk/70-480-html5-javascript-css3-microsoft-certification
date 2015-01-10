@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Contact Us</title>
+    <link href="Content/default.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.8.2.js"></script>
+    <script src="Scripts/ContactUs.js"></script>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <hgroup id="headerText">
+                <h1>Contoso Ltd.</h1>
+                <h2>Your success equals our success</h2>
+            </hgroup>
+        </header>
+        <nav>
+            <a href="default.html">Home</a>
+        </nav>
+        <div role="main">
+            <div id="ContactUs">
+                <form name="ContactForm" method="post" action="/ContactMessage">
+                    <div>
+                        <label for="firstName">First Name:</label>
+                        <input type="text" id="firstName" name="firstName" required="required" />
+                    </div>
+                    <div>
+                        <label for="lastName">Last Name:</label>
+                        <input type="text" id="lastName" name="lastName" required="required" />
+                    </div>
+                    <div>
+                        <label for="email">Email Address:</label>
+                        <input type="email" id="email" name="email" required="required" />
+                    </div>
+                    <div>
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message" required="required"></textarea>
+                    </div>
+                    <div>
+                        <button type="button" id="submit" name="submit">Submit</button>
+                    </div>
+                </form>
+                <div id="result"></div>
+            </div>
+        </div>
+        <aside>
+            <p>Advertisements</p>
+        </aside>
+        <aaater>
+            <p>
+                Copyright &copy; 2012, Contoso Ltd., All rights reserved
+            </p>
+        </aaater>
+    </div>
+</body>
+</html>

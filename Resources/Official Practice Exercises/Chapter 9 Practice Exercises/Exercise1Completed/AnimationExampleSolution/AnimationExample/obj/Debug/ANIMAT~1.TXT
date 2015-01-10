@@ -1,0 +1,8 @@
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\bin\AnimationExample.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\bin\AnimationExample.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\bin\AnimationExample.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\obj\Debug\AnimationExample.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\obj\Debug\AnimationExample.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\obj\Debug\AnimationExample.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\obj\Debug\AnimationExample.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter09\Lab\Exercise1Completed\AnimationExample\AnimationExample\obj\Debug\AnimationExample.pdb

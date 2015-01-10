@@ -1,0 +1,15 @@
+﻿#map {
+    width: 800px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid;
+}
+
+#message {
+    width: 800px;
+    height: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid;
+}

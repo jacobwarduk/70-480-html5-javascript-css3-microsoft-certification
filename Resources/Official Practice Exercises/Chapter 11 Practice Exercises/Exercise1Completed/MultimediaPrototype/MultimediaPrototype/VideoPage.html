@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Video Prototype</title>
+    <link href="default.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.8.3.js"></script>
+    <script src="Scripts/default.js"></script>
+</head>
+<body>
+    <div id="container">
+        <video id="media" controls="controls">
+            <source src="media/eagle.webm" type='video/webm; codecs="vorbis, vp8"' />
+            <source src="media/eagle.ogv" type='video/ogg; codecs="theora, vorbis"' />
+            <source src="media/eagle.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+            You need an HTML5 compatible browser.
+        </video>
+        <br />
+        <span id="message"></span>
+    </div>
+</body>
+</html>

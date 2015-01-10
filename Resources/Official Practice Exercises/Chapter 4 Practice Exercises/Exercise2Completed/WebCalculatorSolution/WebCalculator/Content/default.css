@@ -1,0 +1,53 @@
+﻿body {
+    background-color: hsl(255,100%,50%);
+}
+
+#calculator {
+    border: solid;
+    background-color: hsl(255, 100%, 60%);
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+input {
+    width: 85%;
+    height: 7%;
+    text-align: right;
+    padding: 10px;
+    border: inset;
+}
+
+button {
+    background-color: hsl(255, 50%, 80%);
+    width: 25%;
+    height: 10%;
+    border: outset;
+}
+
+    button:hover {
+        background-color: hsl(255, 50%, 90%);
+    }
+
+    button:active {
+        border: inset;
+        border-width: thick;
+        border-color: hsl(255, 100%, 100%);
+        background-color: hsl(255, 50%, 50%);
+    }
+
+input, button {
+    font-family: Arial;
+    font-size: 24pt;
+    border-width: thick;
+    border-color: hsl(255, 100%, 100%);
+    margin: 5px;
+}
+
+[readonly] {
+    background-color: hsl(255, 50%, 80%);
+}
+

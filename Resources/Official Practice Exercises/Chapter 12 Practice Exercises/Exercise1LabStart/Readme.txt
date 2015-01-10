@@ -1,0 +1,1 @@
+This is intentionally empty as you will start by creating a new Web site.

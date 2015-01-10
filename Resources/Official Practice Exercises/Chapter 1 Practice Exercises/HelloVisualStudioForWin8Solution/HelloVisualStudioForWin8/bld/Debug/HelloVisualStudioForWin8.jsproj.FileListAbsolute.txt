@@ -1,0 +1,26 @@
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\resources.pri
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\AppxManifest.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\HelloVisualStudioForWin8.build.appxrecipe
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\priconfig.xml.intermediate
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\layout.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\resources.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\pri.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\priconfig.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\layout.resfiles
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\resources.resfiles
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\pri.resfiles
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\LanguageQualifiers.txt
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\ProjectArchitectures.txt
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\resources.pri
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\AppxManifest.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bin\Debug\HelloVisualStudioForWin8.build.appxrecipe
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\priconfig.xml.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\layout.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\resources.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\pri.resfiles.intermediate
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\priconfig.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\layout.resfiles
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\resources.resfiles
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\pri.resfiles
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\LanguageQualifiers.txt
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter01\Lab\HelloVisualStudioForWin8Solution\HelloVisualStudioForWin8\bld\Debug\ProjectArchitectures.txt

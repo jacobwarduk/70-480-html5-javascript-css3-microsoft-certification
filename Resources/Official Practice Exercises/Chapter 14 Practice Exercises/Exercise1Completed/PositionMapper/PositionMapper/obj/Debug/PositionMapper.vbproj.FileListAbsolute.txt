@@ -1,0 +1,8 @@
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\bin\PositionMapper.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\bin\PositionMapper.pdb
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\bin\PositionMapper.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\obj\Debug\PositionMapper.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\obj\Debug\PositionMapper.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\obj\Debug\PositionMapper.dll
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\obj\Debug\PositionMapper.xml
+C:\Users\Glenn\SkyDrive\70-480 HTML5 Javascript and CSS3\Chapter14\Lab\Exercise1Completed\PositionMapper\PositionMapper\obj\Debug\PositionMapper.pdb
