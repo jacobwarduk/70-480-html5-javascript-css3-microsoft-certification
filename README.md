@@ -45,3 +45,10 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 
 
 ---
+
+**Chapter 5 - More HTML5**
+
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%205/lesson-1.html)
+
+
+---
