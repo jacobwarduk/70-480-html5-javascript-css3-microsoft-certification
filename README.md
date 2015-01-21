@@ -19,9 +19,9 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 
 **Chapter 2 - Getting Started With HTML5**
 
-*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-1.html)
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-1.txt)
 
-*Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-2.html)
+*Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%202/lesson-2.txt)
 
 *Practice Exercises:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/tree/master/Chapter%202/ContosoWebSite)
 
@@ -30,25 +30,25 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 
 **Chapter 3 - Getting Started With JavaScript**
 
-*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%203/lesson-1.html)
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%203/lesson-1.txt)
 
 
 ---
 
 **Chapter 4 - Getting Started With CSS3**
 
-*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%204/lesson-1.html)
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%204/lesson-1.txt)
 
-*Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%204/lesson-2.html)
+*Lesson 2:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%204/lesson-2.txt)
 
-*Lesson 3:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%204/lesson-3.html)
+*Lesson 3:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%204/lesson-3.txt)
 
 
 ---
 
 **Chapter 5 - More HTML5**
 
-*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%205/lesson-1.html)
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%205/lesson-1.txt)
 
 
 ---
