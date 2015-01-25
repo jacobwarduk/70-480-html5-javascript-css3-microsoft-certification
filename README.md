@@ -54,3 +54,5 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 
 
 ---
+
+**Chapter 6 - **
