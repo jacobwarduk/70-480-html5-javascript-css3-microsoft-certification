@@ -55,4 +55,46 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 
 ---
 
-**Chapter 6 - **
+**Chapter 6 - Essential JavaScript And jQuery**
+
+---
+
+**Chapter 7 - Working With Forms**
+
+---
+
+**Chapter 8 - Websites And Services**
+
+---
+
+**Chapter 9 - Asynchronous Operations**
+
+---
+
+**Chapter 10 - WebSocket Communications**
+
+---
+
+**Chapter 11 - HTML5 Supports Multimedia**
+
+---
+
+**Chapter 12 - Drawing With HTML5**
+
+---
+
+**Chapter 13 - Drap And Drop**
+
+---
+
+**Chapter 14 - Making Your HTML5 Location-Aware**
+
+---
+
+**Chapter 15 - Local Data With Web Storage**
+
+---
+
+**Chapter 16 - Offline Web Applications**
+
+---
