@@ -57,6 +57,8 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 
 **Chapter 6 - Essential JavaScript And jQuery**
 
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%206/lesson-1.txt)
+
 ---
 
 **Chapter 7 - Working With Forms**
