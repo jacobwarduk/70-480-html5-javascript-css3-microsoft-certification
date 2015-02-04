@@ -65,6 +65,8 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 
 **Chapter 7 - Working With Forms**
 
+*Lesson 1:* [Completed](https://github.com/jacobwarduk/70-480-microsoft-html5-javascript-css3-coursework/blob/master/Chapter%207/lesson-1.txt)
+
 ---
 
 **Chapter 8 - Websites And Services**
