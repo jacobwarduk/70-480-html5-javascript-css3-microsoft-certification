@@ -1,3 +1,66 @@
-1. A
-2. A
-3. B
+1. You want to set the style of the first letter of every paragraph in a <div> element whose id is readingPane. Which style selector is most appropriate?
+A. #readingPane p::first-letter
+
+2. The following style sheet rule is defined in Corporate.css.
+                 div p.highlight{
+                     font-size: xx-large;
+                     background-color: yellow;
+                }
+
+In Department.css, the following style sheet rule is defined.
+                 div p {
+                     background-color: blue;
+                }
+
+Your HTML document contains the following.
+                 <!DOCTYPE html>
+                 <html xmlns="http://www.w3.org/1999/xhtml">
+                 <head>
+                     <title></title>
+                     <link href="Corporate.css" rel="stylesheet" />
+                     <link href="Department.css" rel="stylesheet" />
+                 </head>
+                 <body>
+                     <div id="readingPane">
+                         <p class='highlight'>
+                             Here is a test to see what the background color of a paragraph
+                             will be blue or yellow.
+                         </p>
+                     </div>
+                    </body>
+                </html>
+What will be the rendered background color of the paragraph?
+A. Yellow
+
+
+3. The following style sheet rule is defined in Corporate.css.
+      div p.highlight{
+          font-size: xx-large;
+          background-color: yellow;
+        }
+
+In Department.css, the following style sheet rule is defined.
+      div p:first-of-type. {
+          background-color: blue;
+        }
+
+Your HTML document contains the following.
+      <!DOCTYPE html>
+      <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+          <title></title>
+          <link href="Corporate.css" rel="stylesheet" />
+          <link href="Department.css" rel="stylesheet" />
+      </head>
+      <body>
+          <div id="readingPane">
+              <p class='highlight'>
+                  Here is a test to see what the background color of a paragraph
+                  will be blue or yellow.
+              </p>
+          </div>
+         </body>
+        </html>
+
+What will be the rendered background color of the paragraph?
+B. Blue

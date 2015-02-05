@@ -1,3 +1,8 @@
-1. B
-2. A
-3. C
+1. You want to locate all the elements on your webpage that are assigned the CSS class name Hidden. Which jQuery statement can you use?
+B. var hidden = $ (‘.Hidden’);
+
+2. You are interested in writing event-driven JavaScript code that will work on most browsers without writing browser-specific code. How can you accomplish this?
+A. Use the jQuery library to help.
+
+3. You are interested in locating all <p> elements on your webpage, so your statement is var paragraphs = $(‘p’). Which line of code would confirm whether at least one ele- ment is found?
+C. if( paragraphs.length)

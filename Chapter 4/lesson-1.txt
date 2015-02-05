@@ -1,3 +1,8 @@
-1. C
-2. C
-3. B
+1. You want to add a comment to your style sheet that says “temporary.” Which is the proper line to add to the CSS file?
+C. /* temporary */
+
+2. You want to maintain separation between structure and presentation. How do you create your style rules?
+C. Use external style sheets.
+
+3. You want your printer.css style sheet to target printers. How would you set up the style sheet link?
+B. <link rel=’stylesheet’ type=’text/css’ href=’Content/printer.css’ media=’print’ />

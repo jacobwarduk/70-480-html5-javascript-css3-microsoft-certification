@@ -1,3 +1,8 @@
-1. C
-2. A
-3. A
+1. What is the blueprint for an object called?
+C. class
+
+2. What does JavaScript use as a starting object when constructing a new object?
+A. prototype
+
+3. How is inheritance supported in JavaScript?
+A. You replace the prototype of the child object with a new instance of the parent object and then replace the prototype constructor with the child constructor.

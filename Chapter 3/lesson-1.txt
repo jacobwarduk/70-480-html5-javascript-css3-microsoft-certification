@@ -1,3 +1,11 @@
-1. C
-2. B, C, D, F
-3. B
+1. Your application prompts the user to enter his or her age, which is placed in an age variable. A user ran the application and entered I Don’t Know for the age. The applica- tion then multiplies age by two. What is the result?
+C. NaN
+
+2. Which of the following represent valid variable declarations? (Choose all that apply.)
+B. var myChar;
+C. var $cost;
+D. var _total;
+F. var tooGood4u;
+
+3. In your application, you want to display a personalized message to the user, if the user’s name is populated, in the userName variable, but if userName is empty, you want to use Valued User instead. How can you accomplish this most efficiently?
+B. var personalized = ‘Hello ‘ + (userName || ‘Valued User’);

@@ -1,2 +1,5 @@
-1. D
-2. A
+1. You want to embed a Flash file called myFlash.swf in your HTML document. Which is the most appropriate code?
+D. <embed src=”myFlash.swf” ></embed>
+
+2. You want to create a drawing of a machine that Contoso, Ltd., will be selling on its website. The drawing will be embedded in your HTML document, and you want it to maintain its quality when resized. Which is the most appropriate file type to use?
+A. SVG

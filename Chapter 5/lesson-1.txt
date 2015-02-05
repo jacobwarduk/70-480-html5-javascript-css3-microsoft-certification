@@ -1,3 +1,8 @@
-1. D
-2. C
-3. A
+1. You are creating a webpage that will display short stories, and you want the stories to be shareable on other sites. Which element should each story be wrapped with?
+D. <article>
+
+2. You want to indicate an important item in your content text. Which element do you use?
+C. <strong>
+
+3. You want to identify the author of webpages on your website by providing the author name and email address in the footer of each page. What is the proper way to do this?
+A. <address><a href=”email:author@Contoso.com”>Author Name</a></address>

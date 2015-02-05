@@ -1,3 +1,8 @@
-1. C
-2. B
-3. D
+1. You want to find three shades of a color to use on parts of your webpage. Which color function helps you accomplish this task?
+C. hsl( )
+
+2. A font that has curls at the top and bottom of its characters belongs to which font family group?
+B. serif
+
+3. You want to position a <div> element in relation to the browser window. Which position setting do you use?
+D. fixed

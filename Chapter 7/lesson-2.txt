@@ -1,0 +1,8 @@
+1. You are creating a webpage that prompts for a new user’s profile information. The pro- file page requires the user to provide a user name, and if no user name is provided, the user will not be able to submit the page to the server. Which attribute must be placed on the user name text box to enforce this requirement?
+C. required
+
+2. When you want to send form data to the server to update data in the database, which HTTP method should you specify of the <form> element?
+A. POST
+
+3. If you want to add a slider control to a webpage, which element do you use?
+D. <input type=”range” name=”myslider” />

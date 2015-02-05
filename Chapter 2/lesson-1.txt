@@ -1,4 +1,13 @@
-1. C
-2. A
-3. D
-4. A, B, D
+1. You want to create an expando attribute on several <h3> tags that display vehicles for sale. The expando attribute will store the VIN (vehicle identification number) of the vehicle for sale. Which of the following is the most appropriate example of creating the expando attribute?
+C. <h3 data-vin=’current VIN here’>1965 VW Beetle</h3>
+
+2. Which technology is HTML5 preceded by and derived from?
+A. HTML 4.01
+
+3. How should you start each HTML5 document?
+D. <!DOCTYPE html>
+
+4. You want to use the disabled Boolean attribute on a text box. How can you accomplish this? (Choose all that apply.)
+A. <input name=’firstName’ type=’text’ disabled />
+B. <input name=’firstName’ type=’text’ disabled=’’ />
+D. <input name=’firstName’ type=’text’ disabled=’disabled’ />

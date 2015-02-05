@@ -1,3 +1,8 @@
-1. B
-2. B
-3. A
+1. You are creating a webpage that will collect data and send it to a server. Which ele- ment must you implement to be able to send data to the server?
+B. <form>
+
+2. When you retrieve a webpage from the server that contains Customer information, you want to be able to specify the id of the Customer within the URL. What can you use to provide the id?
+B. the QueryString
+
+3. You have serialized the form data that has an <input type=”email”> element. You want to deserialize the data to see the email address as entered. Which function can you use?
+A. decodeURIComponent
