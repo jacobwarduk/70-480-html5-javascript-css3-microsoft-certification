@@ -3,7 +3,7 @@
 
 My work towards gaining the Programming in HTML5 with JavaScript and CSS3 (70-480) certification offered by [Microsoft](https://www.microsoft.com/learning/en-gb/exam-70-480.aspx).
 
-Kinda blogging some stuff at [MEAN Stack Ninja](http://www.meanstack.ninja)
+Kinda blogging some stuff at [MEAN Stack Ninja](http://www.meanstack.ninja).
 
 
 Official Training Guide Progress
