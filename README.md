@@ -7,7 +7,6 @@ Kinda blogging some stuff at [MEAN Stack Ninja](http://www.meanstack.ninja).
 
 ---
 
-
 Blog Posts
 ----------
 [Introduction To Object-Oriented JavaScript – Object-Oriented JavaScript Fundamentals [Part 1]](http://www.meanstack.ninja/2015/02/11/introduction-to-object-oriented-javascript/)
