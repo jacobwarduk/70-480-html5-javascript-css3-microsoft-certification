@@ -5,6 +5,15 @@ My work towards gaining the Programming in HTML5 with JavaScript and CSS3 (70-48
 
 Kinda blogging some stuff at [MEAN Stack Ninja](http://www.meanstack.ninja).
 
+---
+
+Blog Posts
+----------
+[Introduction To Object-Oriented JavaScript – Object-Oriented JavaScript Fundamentals [Part 1]](http://www.meanstack.ninja/2015/02/11/introduction-to-object-oriented-javascript/)
+
+[JavaScript Object Literal Pattern – Object-Oriented JavaScript Fundamentals [Part 2]](http://www.meanstack.ninja/2015/02/11/javascript-object-literal-pattern/)
+
+---
 
 Official Training Guide Progress
 --------------------------------
@@ -108,9 +117,3 @@ Just installed Windows 8 and Visual Studio so I can get on with this chapter soo
 **Chapter 16 - Offline Web Applications**
 
 ---
-
-Blog Posts
-----------
-[Introduction To Object-Oriented JavaScript – Object-Oriented JavaScript Fundamentals [Part 1]](http://www.meanstack.ninja/2015/02/11/introduction-to-object-oriented-javascript/)
-
-[JavaScript Object Literal Pattern – Object-Oriented JavaScript Fundamentals [Part 2]](http://www.meanstack.ninja/2015/02/11/javascript-object-literal-pattern/)
