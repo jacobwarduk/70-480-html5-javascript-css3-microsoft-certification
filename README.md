@@ -15,6 +15,7 @@ Blog Posts
 
 ---
 
+
 Official Training Guide Progress
 --------------------------------
 
