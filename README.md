@@ -14,6 +14,8 @@ My Related Blog Posts
  - [JavaScript Object Literal Pattern – Object-Oriented JavaScript Fundamentals [Part 2]](http://www.meanstack.ninja/2015/02/11/javascript-object-literal-pattern/)
 
  - [JavaScript Object Factory Pattern - Object-Oriented JavaScript Fundamentals [Part 3]](http://www.meanstack.ninja/2015/02/20/javascript-object-factory-pattern/)
+ 
+ - 
 ---
 
 
